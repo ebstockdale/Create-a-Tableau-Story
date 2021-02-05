@@ -1,5 +1,6 @@
 
 
+
 Project Name: Create a Tableau Story
 
 First version: https://public.tableau.com/profile/evan.stockdale#!/vizhome/BaseballStory_16123802628550/UdacityBaseballStory?publish=yes 
@@ -40,4 +41,5 @@ Feedback:
 
 Add a little additional text describing the visualization and what it shows for this tab.  Imagine that the viewer has no understanding of data visualizations. 
 
- 
+Resources: 
+https://github.com/ebstockdale/Create-a-Tableau-Story
